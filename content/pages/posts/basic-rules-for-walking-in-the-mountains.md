@@ -48,4 +48,5 @@ layout: post
 instagram: [**fa_zxm**](https://www.instagram.com/fa_zxm/)
 
 *   ***0535079759***
+*   Telegram: [**هقاوي الشمال**](https://t.me/joinchat/AAAAAEu5uiI0\_vJgzXyXPA)
 
