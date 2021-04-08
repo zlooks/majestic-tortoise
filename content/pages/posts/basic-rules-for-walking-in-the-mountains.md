@@ -42,7 +42,7 @@ layout: post
 thumb_img_path: images/photo6003392956230382912.jpg
 hide_header: false
 ---
-![](/images/interesting-parsley.png)![](/images/blue-triceratops.jpg)
+![](/images/interesting-parsley.png)![](/images/photo6003392956230382912.jpg)![](/images/blue-triceratops.jpg)
 
 حسابي انستقرام تجدونة فوق ورقمي احطة الحين
 
