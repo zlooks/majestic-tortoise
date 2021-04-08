@@ -40,7 +40,6 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: post
-subtitle: red
 ---
 ![](/images/interesting-parsley.png)![](/images/blue-triceratops.jpg)
 
