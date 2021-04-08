@@ -40,6 +40,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: post
+thumb_img_path: images/photo6003392956230382912.jpg
 ---
 ![](/images/interesting-parsley.png)![](/images/blue-triceratops.jpg)
 
