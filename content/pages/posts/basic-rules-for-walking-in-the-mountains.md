@@ -42,9 +42,9 @@ layout: post
 thumb_img_path: images/photo6003392956230382912.jpg
 hide_header: false
 ---
-# ![](/images/interesting-parsley.png)***رئيس العصابة ابو شنابات***
+# ![](/images/interesting-parsley.png)******
 
-******
+***
 
 ![](/images/blue-triceratops.jpg)
 
@@ -53,4 +53,5 @@ hide_header: false
 instagram: [**fa_zxm**](https://www.instagram.com/fa_zxm/)
 
 *   ***0535079759***
+*   # ***رئيس العصابة ابو شنابات***
 *   Telegram: [**هقاوي الشمال**![](/images/photo6003392956230382912.jpg)](https://t.me/joinchat/AAAAAEu5uiI0\_vJgzXyXPA)
