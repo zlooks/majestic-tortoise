@@ -1,8 +1,4 @@
 ---
-excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 seo:
   title: Basic Rules For Walking In The Mountains
