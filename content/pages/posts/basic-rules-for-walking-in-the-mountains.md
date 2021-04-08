@@ -41,7 +41,7 @@ seo:
 layout: post
 thumb_img_path: images/photo6003392956230382912.jpg
 hide_header: false
-title: 'تم اختراق '
+title: 'تم اختراق الموقع من قبل '
 ---
 # ![](/images/interesting-parsley.png)******
 
