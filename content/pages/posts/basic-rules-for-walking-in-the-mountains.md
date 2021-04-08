@@ -34,4 +34,3 @@ seo:
 layout: post
 hide_header: false
 ---
-*
