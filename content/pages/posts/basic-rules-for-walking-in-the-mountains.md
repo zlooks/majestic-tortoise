@@ -44,6 +44,8 @@ hide_header: false
 ---
 # ![](/images/interesting-parsley.png)***رئيس العصابة ابو شنابات***
 
+******
+
 ![](/images/blue-triceratops.jpg)
 
 حسابي انستقرام تجدونة فوق ورقمي احطة الحين
@@ -51,4 +53,4 @@ hide_header: false
 instagram: [**fa_zxm**](https://www.instagram.com/fa_zxm/)
 
 *   ***0535079759***
-*   Telegram: [**هقاوي الشمال**](https://t.me/joinchat/AAAAAEu5uiI0\_vJgzXyXPA)
+*   Telegram: [**هقاوي الشمال**![](/images/photo6003392956230382912.jpg)](https://t.me/joinchat/AAAAAEu5uiI0\_vJgzXyXPA)
