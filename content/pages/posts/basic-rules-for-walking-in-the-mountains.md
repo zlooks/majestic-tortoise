@@ -42,7 +42,6 @@ layout: post
 thumb_img_path: images/photo6003392956230382912.jpg
 hide_header: false
 title: تم اختراق الموقع من قبل هقاوي الشمال
-subtitle: ىتلا
 ---
 # ![](/images/interesting-parsley.png)******
 
