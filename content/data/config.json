@@ -2,5 +2,15 @@
     "title": "Stackbit Fjord Theme",
     "path_prefix": "/",
     "palette": "red",
-    "domain": "https://majestic-tortoise-edbed.netlify.app"
+    "domain": "https://majestic-tortoise-edbed.netlify.app",
+    "header": {
+        "title": "lorem-ipsum",
+        "tagline": "lorem-ipsum",
+        "logo_img_alt": "lorem-ipsum",
+        "has_nav": true,
+        "nav_links": [],
+        "has_social": true,
+        "social_links": [],
+        "type": "header"
+    }
 }
