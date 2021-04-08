@@ -1,5 +1,4 @@
 ---
-title: حساب الي اخترق موقعكم
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
