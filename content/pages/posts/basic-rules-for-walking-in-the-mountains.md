@@ -38,7 +38,6 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: post
-thumb_img_path: images/photo6003392956230382912.jpg
 hide_header: false
 ---
 # ![](/images/interesting-parsley.png)******
